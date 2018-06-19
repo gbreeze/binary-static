@@ -142,7 +142,7 @@ a.link {
       @media (max-width: 575px) {
         .icon-sm.icon-md.margin-30, .tab-with-buttons .icon-md.margin-30.twb-button, .icon-md.icon-md.margin-30, .icon-lg.icon-md.margin-30, .boxed-steps .icon-md.margin-30.icon {
           margin: 20px; } }
-  .icon-sm.icon-lg, .boxed-steps .icon-sm.icon, .boxed-steps .tab-with-buttons .icon.twb-button, .tab-with-buttons .boxed-steps .icon.twb-button, .tab-with-buttons .icon-lg.twb-button, .icon-md.icon-lg, .boxed-steps .icon-md.icon, .icon-lg.icon-lg, .boxed-steps .icon {
+  .icon-lg.icon-sm, .boxed-steps .icon-sm.icon, .boxed-steps .tab-with-buttons .icon.twb-button, .tab-with-buttons .boxed-steps .icon.twb-button, .tab-with-buttons .icon-lg.twb-button, .icon-md.icon-lg, .boxed-steps .icon-md.icon, .icon-lg.icon-lg, .boxed-steps .icon {
     height: 64px;
     width: 64px; }
     .icon-sm.icon-lg.margin-left-0, .boxed-steps .icon-sm.margin-left-0.icon, .boxed-steps .tab-with-buttons .margin-left-0.icon.twb-button, .tab-with-buttons .boxed-steps .margin-left-0.icon.twb-button, .tab-with-buttons .icon-lg.margin-left-0.twb-button, .icon-md.icon-lg.margin-left-0, .boxed-steps .icon-md.margin-left-0.icon, .icon-lg.icon-lg.margin-left-0, .boxed-steps .margin-left-0.icon {
@@ -2426,7 +2426,7 @@ a.link {
     left: 0;
     width: 100%;
     height: 99999px;
-    background: linear-gradient(to right, transparent 50%, rgba(0, 0, 0, 0.02) 50%);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.02) 50%);
     background-size: 16.6666666667% 100%;
     z-index: 99999; }
 
@@ -3213,7 +3213,7 @@ a.link {
     left: 0;
     width: 100%;
     height: 99999px;
-    background: linear-gradient(to right, transparent 50%, rgba(0, 0, 0, 0.02) 50%);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.02) 50%);
     background-size: 16.6666666667% 100%;
     z-index: 99999; }
 
@@ -4000,7 +4000,7 @@ body {
     left: 0;
     width: 100%;
     height: 99999px;
-    background: linear-gradient(to right, transparent 50%, rgba(0, 0, 0, 0.02) 50%);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.02) 50%);
     background-size: 16.6666666667% 100%;
     z-index: 99999; }
 
@@ -4644,7 +4644,7 @@ body {
       left: 0;
       width: 100%;
       height: 99999px;
-      background: linear-gradient(to right, transparent 50%, rgba(0, 0, 0, 0.02) 50%);
+      background: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.02) 50%);
       background-size: 16.6666666667% 100%;
       z-index: 99999; }
   body {
@@ -5430,7 +5430,7 @@ body {
     left: 0;
     width: 100%;
     height: 99999px;
-    background: linear-gradient(to right, transparent 50%, rgba(0, 0, 0, 0.02) 50%);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.02) 50%);
     background-size: 16.6666666667% 100%;
     z-index: 99999; }
 
@@ -6074,7 +6074,7 @@ body {
       left: 0;
       width: 100%;
       height: 99999px;
-      background: linear-gradient(to right, transparent 50%, rgba(0, 0, 0, 0.02) 50%);
+      background: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.02) 50%);
       background-size: 16.6666666667% 100%;
       z-index: 99999; }
   body {
@@ -6860,7 +6860,7 @@ body {
     left: 0;
     width: 100%;
     height: 99999px;
-    background: linear-gradient(to right, transparent 50%, rgba(0, 0, 0, 0.02) 50%);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.02) 50%);
     background-size: 16.6666666667% 100%;
     z-index: 99999; }
 
@@ -7504,7 +7504,7 @@ body {
       left: 0;
       width: 100%;
       height: 99999px;
-      background: linear-gradient(to right, transparent 50%, rgba(0, 0, 0, 0.02) 50%);
+      background: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.02) 50%);
       background-size: 16.6666666667% 100%;
       z-index: 99999; }
   body {
@@ -8290,7 +8290,7 @@ body {
     left: 0;
     width: 100%;
     height: 99999px;
-    background: linear-gradient(to right, transparent 50%, rgba(0, 0, 0, 0.02) 50%);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.02) 50%);
     background-size: 16.6666666667% 100%;
     z-index: 99999; }
 
@@ -8934,7 +8934,7 @@ body {
       left: 0;
       width: 100%;
       height: 99999px;
-      background: linear-gradient(to right, transparent 50%, rgba(0, 0, 0, 0.02) 50%);
+      background: linear-gradient(to right, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.02) 50%);
       background-size: 16.6666666667% 100%;
       z-index: 99999; }
   body {
